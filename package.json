@@ -1,0 +1,15 @@
+{
+  "name": "babel-plugin-istanbul-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel index.js"
+  },
+  "author": "Andy Edwards",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/preset-env": "^7.24.0",
+    "babel-plugin-istanbul": "^6.1.1"
+  }
+}
